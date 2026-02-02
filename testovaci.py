@@ -17,3 +17,5 @@ for i in range(3):
       vysledek = "Vyhrává hráč!"
   
   print(f"Výsledek: {vysledek}")
+
+#Zkousim jen neco dopsat aby byla zmena sw
