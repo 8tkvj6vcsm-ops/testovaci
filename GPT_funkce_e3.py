@@ -17,4 +17,4 @@ def pocet_velkych_pismen(text):
             pocet += 1
     return pocet
 pocet = pocet_velkych_pismen(text)
-print(f"Počet velkých písmen: {pocet}")
+print(f"Počet velkých písmen: {pocet}")   
