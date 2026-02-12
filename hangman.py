@@ -25,3 +25,4 @@ def zobraz_stav_hry(tajenka):
 
 test = zobraz_stav_hry(tajenka_list)
 print(test)
+
