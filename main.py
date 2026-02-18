@@ -1,5 +1,4 @@
-import modul
+from matematika import funkce_scitej
 
-print("main.py běží")
-
-modul.pozdrav()
+vysledek = funkce_scitej(10, 5)
+print(vysledek)
